@@ -1,4 +1,5 @@
-15/03 : 
+15/03 : - Analyse de l'application
+ - Imaginer des tests de paquets à capturer
 
 22/03 : 
 
