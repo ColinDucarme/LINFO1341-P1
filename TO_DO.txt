@@ -1,5 +1,7 @@
-15/03 : - Analyse de l'application
- - Imaginer des tests de paquets à capturer
+15/03 : - Analyse de l'application -> H et C
+ - Ecrire rapport sur analyse de l'app -> H (et C)
+ - Recherches sur comment analyser seuelement Teams -> C
+ - Imaginer des tests de paquets à capturer -> H et C
 
 22/03 : 
 
