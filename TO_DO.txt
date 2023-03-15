@@ -3,7 +3,8 @@
  - Recherches sur comment analyser seuelement Teams -> C
  - Imaginer des tests de paquets à capturer -> H et C
 
-22/03 : 
+22/03 : - Analyse et écriture rapport DNS/ couche réseau -> H
+ - Analyse et écriture rapport Couche transport/chiffrement et sécurité -> C
 
 29/03 : 
 
